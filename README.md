@@ -19,6 +19,5 @@ This project is designed to demonstrate the practical application of data prepro
 - NumPy
 - Pandas
 - Scikit-learn
-- Flask / FastAPI (use the one you actually used)
+- FastAPI 
 
--
